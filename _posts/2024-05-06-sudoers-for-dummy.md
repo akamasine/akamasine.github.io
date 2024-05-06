@@ -4,10 +4,6 @@ mathjax: true
 layout: post
 categories: linux
 ---
-## Categories: Linux, System Administration, Security
-
----
-
 The sudoers file, located at `/etc/sudoers`, is a crucial configuration file in Unix-like operating systems, including Linux. It determines who has the authority to execute commands with elevated privileges using the `sudo` command.
 
 ### Why is it Important?
