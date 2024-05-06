@@ -4,9 +4,6 @@ mathjax: true
 layout: post
 categories: linux
 ---
-
-# Understanding the sudoers File: A Beginner's Guide
-
 ## Categories: Linux, System Administration, Security
 
 ---
