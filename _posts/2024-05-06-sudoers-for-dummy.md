@@ -1,6 +1,5 @@
 ---
 title:  "Understanding the sudoers File: A Beginner's Guide"
-mathjax: true
 layout: post
 categories: linux
 ---
