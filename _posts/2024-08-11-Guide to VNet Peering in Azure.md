@@ -1,10 +1,8 @@
-# A Comprehensive Guide to VNet Peering in Azure
-
 Cloud infrastructures, with time, have started to get a little more complex; hence, the ability to interconnect and manage your virtual networks has become very important. VNet Peering in Azure is among those features that enable you to communicate naturally between virtual networks (VNets), giving you a simple and scalable tool to make a robust network architecture.
 
 What Is VNet Peering?
 
-![diagram-3449061352.png](A%20Comprehensive%20Guide%20to%20VNet%20Peering%20in%20Azure%200b704e2cee304d059c5aed1a2de2bd7b/diagram-3449061352.png)
+![vnet.png](/assets/images/vnet.png)
 
 VNet peering allows you to connect two or more VNets inside Azure so that resources in those VNets can communicate with each other as if they were on the same network. It is a private, low-latency, and high-bandwidth connection that fits nicely in different scenarios, like multi-region deployments, resource segregation, and complex application architectures.
 
