@@ -1,5 +1,6 @@
 ---
 title:  "Understanding the sudoers File: A Beginner's Guide"
+keywords: "Linux,Sudoers,Sudo"
 layout: post
 categories: linux
 ---

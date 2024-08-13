@@ -1,3 +1,11 @@
+---
+title:  "Guide to Vnet Peering"
+layout: post
+categories: Azure
+keywords: "Azure, Networking, vnet, vnet peering"
+
+---
+
 Cloud infrastructures, with time, have started to get a little more complex; hence, the ability to interconnect and manage your virtual networks has become very important. VNet Peering in Azure is among those features that enable you to communicate naturally between virtual networks (VNets), giving you a simple and scalable tool to make a robust network architecture.
 
 What Is VNet Peering?
