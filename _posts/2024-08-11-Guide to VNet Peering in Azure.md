@@ -2,7 +2,13 @@
 title:  "Guide to Vnet Peering"
 layout: post
 categories: Azure
-keywords: "Azure, Networking, vnet, vnet peering"
+description: "Learn how to configure VNet Peering in Azure with this step-by-step guide. Enhance your cloud networking architecture with seamless connectivity."
+
+keywords: "Azure, Networking, vnet, vnet peering, VNet Peering, Azure, Cloud Networking, Virtual Networks, Azure Networking"
+canonical_url: "https://blogs.gautamnischal.com.np/guide-to-vnet-peering/"
+author: "Nischal Gautam"
+
+
 
 ---
 
