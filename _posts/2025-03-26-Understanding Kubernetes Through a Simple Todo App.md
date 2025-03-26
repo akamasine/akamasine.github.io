@@ -105,7 +105,7 @@ For creating a todo:
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/k8s-todo-app.git
+   git clone https://github.com/akamasine/Demo-Todo.git
    ```
 
 3. Follow the setup instructions in the repository's README.md
