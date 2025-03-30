@@ -6,7 +6,7 @@ description: "How to deploy a simple Todo application on Kubernetes focusing on 
 
 keywords: "kubernetes,minikube,3tire,three-tire,deployment"
 canonical_url: "https://blogs.gautamnischal.com.np/todo-application-on-kubernetes/"
-author: "Nischal Gautam
+author: "Nischal Gautam"
 ---
 
 ## Introduction
